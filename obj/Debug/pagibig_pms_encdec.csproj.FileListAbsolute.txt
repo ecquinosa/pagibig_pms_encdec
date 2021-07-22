@@ -1,0 +1,8 @@
+D:\WORK\Projects\pagibig_pms_encdec\bin\Debug\pagibig_pms_encdec.exe
+D:\WORK\Projects\pagibig_pms_encdec\bin\Debug\pagibig_pms_encdec.pdb
+D:\WORK\Projects\pagibig_pms_encdec\obj\Debug\pagibig_pms_encdec.csprojAssemblyReference.cache
+D:\WORK\Projects\pagibig_pms_encdec\obj\Debug\pagibig_pms_encdec.Form1.resources
+D:\WORK\Projects\pagibig_pms_encdec\obj\Debug\pagibig_pms_encdec.Properties.Resources.resources
+D:\WORK\Projects\pagibig_pms_encdec\obj\Debug\pagibig_pms_encdec.csproj.GenerateResource.cache
+D:\WORK\Projects\pagibig_pms_encdec\obj\Debug\pagibig_pms_encdec.exe
+D:\WORK\Projects\pagibig_pms_encdec\obj\Debug\pagibig_pms_encdec.pdb
